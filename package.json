@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/random-streams-randu",
-  "version": "0.0.7",
+  "version": "0.0.0",
   "description": "Create a readable stream for generating uniformly distributed pseudorandom numbers between 0 and 1.",
   "license": "Apache-2.0",
   "main": "./bundle.js",
